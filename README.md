@@ -34,10 +34,6 @@
 
 # 📖 [Hello-microverse-project] <a name="setting Up a linters"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Hello-microverse-project]** is a project to set up html-css linters in order to be able to detect bugs in our code
-
 ## 🛠 Built With <a name="built-with"></a>
 
 1. HTML
