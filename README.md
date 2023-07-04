@@ -30,33 +30,6 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 [Hello-microverse-project] <a name="setting Up a linters"></a>
-
-> Describe your project in 1 or 2 sentences.
-
-**[Hello-microverse-project]** is a project to set up html-css linters in order to be able to detect bugs in our code
-
-## 🛠 Built With <a name="built-with"></a>
-
-1. HTML
-2. CSS
-3. LINTERS
-
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">html</a></li>
-    <li><a href="https://reactjs.org/">css</a></li>
-    <li><a href="https://reactjs.org/">javascipt </a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -219,18 +192,6 @@ I would like to thank Microverse for the opportunity
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
